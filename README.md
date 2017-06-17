@@ -2,7 +2,7 @@
 
 This is my first foray into Unity development, where I built a basic rolling ball game. I've always loved playing games and have heard of Unity on numerous occasions as the leading game development platform. Hence, I was really excited to have the chance to play around with the tool and learn more about game objects, models, components, prefabs, scripting, and building. I used Unity's standard assets for this exercise, but am thrilled to explore their asset store for more visuals on my next project.
 
-##Key Things I Learned
+## Key Things I Learned
 
 ### How collisions work in Unity's physics engine
 * Physics engine does not allow 2 collider items to overlap
